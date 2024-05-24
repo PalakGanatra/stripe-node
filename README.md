@@ -12,7 +12,7 @@ applications written in server-side JavaScript.
 For collecting customer and payment information in the browser, use [Stripe.js][stripe-js].
 
 ## Documentation
-
+#palak
 See the [`stripe-node` API docs](https://stripe.com/docs/api?lang=node) for Node.js.
 
 See [video demonstrations][youtube-playlist] covering how to use the library.
